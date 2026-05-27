@@ -22,7 +22,8 @@ Planning and record-keeping repository for a family trip to Malaysia from **28 N
 
 - **[Research & Information](research)** — Travel essentials including visa requirements, vaccinations, transport options, and practical travel information
 - **[Master Itinerary](itineraries/master_itinerary)** — Day-by-day breakdown, activities, transport options, and pre-trip checklist for all destinations
-- **[Restaurants](/dining/restaurant_guide)** - Restaurant recommendations for each destination.
+- **[Restaurants](dining/restaurant_guide)** - Restaurant recommendations for each destination.
+- **[Links](links)**
 
 ## Key Information
 
@@ -38,14 +39,6 @@ Planning and record-keeping repository for a family trip to Malaysia from **28 N
 - **Visa:** Not required for Australian passport holders (visa-free for up to 90 days)
 - **Passport:** Must be valid for at least 6 months from arrival date
 - **Travel insurance:** Recommended
-
-## Travel Highlights
-
-- **Langkawi** — Beach paradise with island hopping, SkyCab sky bridge, marine experiences
-- **Penang** — UNESCO heritage, street art, vibrant food culture, historic temples
-- **Ipoh** — Cave temples, hidden lakes, colonial architecture, authentic local cuisine
-- **Melaka** — UNESCO World Heritage Site, river cruises, night markets, theme parks
-- **Kuala Lumpur** — Modern city attractions, Petronas Twin Towers, world-class museums, shopping
 
 ---
 
