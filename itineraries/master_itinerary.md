@@ -14,7 +14,7 @@
 
 - **Dates:** 28 November – 3 December 2026
 - **Arrival:** Flight into Langkawi International Airport (28 Nov)
-- **Accommodation:** 6 nights
+- **Accommodation:** 6 nights, [Wings by Croske Resort](https://www.booking.com/hotel/my/wings-by-croske.en-gb.html)
 - **Departure:** 4 December
 
 **Popular Activities:**
@@ -34,7 +34,7 @@
 - **Dates:** 4 December – 6 December 2026
 - **Arrival:** 4 December
 - **Transport from Langkawi:** Domestic flight or ferry (~2 hours)
-- **Accommodation:** 3 nights
+- **Accommodation:** 3 nights, [Hotel Panaga](https://www.booking.com/hotel/my/penaga.en-gb.html)
 - **Departure:** 7 December
 
 **Popular Activities:**
@@ -57,7 +57,7 @@
 - **Arrival:** 7 December
 - **Transport from Penang:** Train (ETS, ~1.5–2 hours) or car (~2–2.5 hours)
 - **Cost reference:** RM 60–100 per person by train (~AUD 18–30)
-- **Accommodation:** 4 nights
+- **Accommodation:** 4 nights, [Sojourn Spa Hotel](https://www.booking.com/hotel/my/sojourn-guest-house-ipoh.en-gb.html)
 - **Departure:** 11 December
 
 **Popular Activities:**
@@ -79,7 +79,7 @@
 - **Dates:** 11 December – 12 December 2026
 - **Arrival:** 11 December
 - **Transport from Ipoh:** Car or bus (~4–5 hours)
-- **Accommodation:** 2 nights
+- **Accommodation:** 2 nights, [Wayfarer Guest House](https://www.booking.com/hotel/my/wayfarer-guest-house-jonker-street-melaka.en-gb.html)
 - **Departure:** 13 December
 
 **Popular Activities:**
