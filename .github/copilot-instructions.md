@@ -79,3 +79,4 @@ This repository tracks planning and record-keeping for a family trip to Malaysia
 - Keep all booking confirmations in one place for quick access during the trip
 - Maintain a running checklist of pre-trip preparations (vaccinations, packing, notifications to bank, etc.)
 - Document lessons learned and tips for future trips at the end of the project
+- For Python commands, use `python3`
